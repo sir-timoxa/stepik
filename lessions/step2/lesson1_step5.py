@@ -28,5 +28,5 @@ try:
     sub_button.click()
 
 finally:
-    time.sleep(10)
+    time.sleep(5)
     browser.quit()
